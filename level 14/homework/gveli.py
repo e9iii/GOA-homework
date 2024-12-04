@@ -25,9 +25,9 @@
 
 # number = float(input("enter number: "))
 # if number > 100 and number % 2 == 0:
-#     print(f"{number}: 100 მეტია და არის ლუწი")
+#     print(f"{number}: 100-ზე მეტია და არის ლუწი")
 # else:
-#     print(f"{number}: არ არის 100 მეტი ან ლუწი")
+#     print(f"{number}: არ არის 100-ზე მეტი ან ლუწი")
 
 number = int(input("enter number: "))
 if number % 5 == 0 or number % 10 == 0:
